@@ -32,6 +32,6 @@ Available in this repository.
 
 Windows may show a warning because the app is not signed. Click "More info → Run anyway".
 
-## 📸 Preview
 
-(Add screenshot here if possible)
+
+
