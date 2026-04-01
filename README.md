@@ -32,6 +32,13 @@ Available in this repository.
 
 Windows may show a warning because the app is not signed. Click "More info → Run anyway".
 
+MIT License
+
+Copyright (c) 2026 Devsharma220
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files...
+
 
 
 
